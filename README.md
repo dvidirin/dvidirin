@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Daniel Vidiri Neto</h1>
-<h3 align="center">Sou apaixonado por tecnologia, atualmente aprendendo, adorando e me dedicando muito na área de QA.</h3>
+<h3 align="center">Sou apaixonado por tecnologia, atualmente aprendendo, adorando e me dedicando muito na área.</h3>
 
 - 🌱 Atualmente estou aprendendo **Salesforce, Data Analyst e Test Analyst | QA**
 - 🌱 No QA, para ser mais específico, utilizei: **Java and Maven, JUnit, Selenium Webdriver, Cucumber and Gherkin**
